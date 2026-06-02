@@ -1,0 +1,23 @@
+# Logs
+*.log
+.backend.pid
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/target/
+backend/*.cmd
+
+# Frontend build
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins*
+frontend/.packages
+frontend/*.iml
